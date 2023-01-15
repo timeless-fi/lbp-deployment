@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c8ea1a2e.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.dd8b663c.js",
+    "static/css/2.e0ae4231.chunk.css": "/static/css/2.e0ae4231.chunk.css",
+    "static/js/2.9a88e36d.chunk.js": "/static/js/2.9a88e36d.chunk.js",
+    "static/js/3.762853ef.chunk.js": "/static/js/3.762853ef.chunk.js",
+    "static/js/4.8fc3ff2f.chunk.js": "/static/js/4.8fc3ff2f.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.9a88e36d.chunk.js.LICENSE.txt": "/static/js/2.9a88e36d.chunk.js.LICENSE.txt",
+    "static/js/4.8fc3ff2f.chunk.js.LICENSE.txt": "/static/js/4.8fc3ff2f.chunk.js.LICENSE.txt",
+    "static/media/IconChevron.94fba9a2.svg": "/static/media/IconChevron.94fba9a2.svg",
+    "static/media/IconClose.80d4f45a.svg": "/static/media/IconClose.80d4f45a.svg",
+    "static/media/IconError.c5d160d9.svg": "/static/media/IconError.c5d160d9.svg",
+    "static/media/IconExternal.8d260262.svg": "/static/media/IconExternal.8d260262.svg",
+    "static/media/IconInfo.484c04b0.svg": "/static/media/IconInfo.484c04b0.svg",
+    "static/media/IconLoading.6719ed42.svg": "/static/media/IconLoading.6719ed42.svg",
+    "static/media/IconMissing.725b0634.svg": "/static/media/IconMissing.725b0634.svg",
+    "static/media/IconPending.f5089d03.svg": "/static/media/IconPending.f5089d03.svg",
+    "static/media/IconSpy.3eca7c08.svg": "/static/media/IconSpy.3eca7c08.svg",
+    "static/media/IconSuccess.e7be2c86.svg": "/static/media/IconSuccess.e7be2c86.svg",
+    "static/media/logo.e71db88b.png": "/static/media/logo.e71db88b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd8b663c.js",
+    "static/css/2.e0ae4231.chunk.css",
+    "static/js/2.9a88e36d.chunk.js",
+    "static/js/main.c8ea1a2e.chunk.js"
+  ]
+}
